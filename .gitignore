@@ -1,0 +1,8 @@
+# Hasil kompilasi
+out/
+target/
+*.class
+
+# Pengaturan IDE
+.idea/
+*.iml
